@@ -40,5 +40,7 @@
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=0xd34db8&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FAFAFA&text_color=A1A1AA&icon_color=52525B)
 
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xd34db8&theme=github_dark" alt="GitHub profile analytics" width="95%" />
+
 </div>
 <br>
